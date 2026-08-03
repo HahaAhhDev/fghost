@@ -1,0 +1,16 @@
+# Core UI (required)
+rich>=10.0.0
+
+# Optional but recommended for full functionality
+requests>=2.25.0
+scapy>=2.4.5              # For packet crafting attacks
+whois>=0.9.3              # WHOIS lookups
+dnspython>=2.1.0          # DNS enumeration
+phonenumbers>=8.12.0      # Phone number parsing
+pillow>=8.0.0             # Image steganography & QR
+netifaces>=0.11.0         # Network interface info
+cryptography>=3.4.0       # AES encryption utilities
+qrcode>=7.3.0             # QR code generation
+pyfiglet>=0.8.post1       # ASCII banner art
+
+# Note: All optional modules are gracefully handled if missing.
