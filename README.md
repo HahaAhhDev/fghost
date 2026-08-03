@@ -22,7 +22,7 @@ All features are wrapped in a clean, **red‑themed** menu with JSON‑style nav
 
 📌 **To obtain your key, visit me on Discord:**
 
-👉 **[Visit My website](https://fghostagree.oneapp.dev/)**
+👉 **[Visit My website](https://fghost.oneapp.dev/)**
 
 Once you’re in, agree to the conditions and you have the key!
 
@@ -56,7 +56,7 @@ This tool is for **educational and authorized security testing only**. Unauthori
 
 ## 📞 Contact
 
-- **Get Key**: [Visit For Key](https://fghostagree.oneapp.dev/)
+- **Get Key**: [Visit For Key](https://fghost.oneapp.dev/)
 - **GitHub Issues**: For bugs or feature requests
 
 ---
